@@ -1,4 +1,4 @@
-![taskflow_architecture_diagram](https://github.com/user-attachments/assets/e89eb7d4-86f2-45ab-b4c8-19fd4665febc)# 🚀 Full Stack DevOps Project
+# 🚀 Full Stack DevOps Project
 
 ## 🧠 Project Overview
 
@@ -22,6 +22,7 @@ The primary goal of this project is to showcase **real-world DevOps skills**, in
 ---
 
 ## 🏗️ Architecture
+![taskflow_architecture_diagram](https://github.com/user-attachments/assets/e89eb7d4-86f2-45ab-b4c8-19fd4665febc)
 ![Uploading taskflow_architecture_<svg width="100%" viewBox="0 0 680 740" xmlns="http://www.w3.org/2000/svg">
 <defs>
   <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
