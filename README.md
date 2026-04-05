@@ -105,7 +105,7 @@ All major DevOps work was handled manually, including:
 👉 Watch full working demo:
 https://drive.google.com/file/d/10F2jzNkUctE0XAxAeonjbvDT2L0mm-TL/view?usp=sharing
 
-
+Note: Audio quality may vary. For better clarity, please use headphones.
 ---
 
 ### What this demo shows:
